@@ -1,2 +1,4 @@
 # hello-world
-Just another respository
+
+Hi Humans!
+I like Objective-C and Swift language.
